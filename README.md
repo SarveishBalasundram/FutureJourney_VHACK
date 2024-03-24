@@ -25,6 +25,6 @@ We welcome contributions from the community to make FutureJourney even better! W
 
 ## Support
 
-Need help or have questions? Don't hesitate to reach out to our support team at support@futurejourney.com. We're here to assist you every step of the way.
+Need help or have questions? Don't hesitate to reach out to our team :)
 
 Let's embark on this exciting journey together and shape a brighter future with FutureJourney! 🚀✨
