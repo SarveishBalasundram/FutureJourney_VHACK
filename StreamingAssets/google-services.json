@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1064186274337",
+    "firebase_url": "https://futurejourney-c13c3-default-rtdb.firebaseio.com",
+    "project_id": "futurejourney-c13c3",
+    "storage_bucket": "futurejourney-c13c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064186274337:android:6777535ccdb91d6f05b960",
+        "android_client_info": {
+          "package_name": "com.futureJourney.firebaseDb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO7X5P6NJzb4cbe3T_ITAXL_fucKsJj6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
